@@ -1,0 +1,224 @@
+:root {
+  --bg: #0b0d12;
+  --bg-raised: #12151c;
+  --bg-hover: #1a1f2a;
+  --border: #232838;
+  --text: #e7e9ee;
+  --text-dim: #8c92a4;
+  --text-faint: #5a6072;
+  --accent: #7c9cff;
+  --accent-dim: #3d4a7a;
+  --gold: #e8c15a;
+  --silver: #c7cbd6;
+  --bronze: #d29a5f;
+  --radius: 10px;
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+          sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.site-header {
+  padding: 2rem 1.5rem 1.25rem;
+  text-align: center;
+  border-bottom: 1px solid var(--border);
+}
+
+.site-header h1 {
+  margin: 0 0 0.35rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.subtitle {
+  margin: 0;
+  color: var(--text-dim);
+  font-size: 0.95rem;
+}
+
+.meta {
+  margin: 0.6rem 0 0;
+  color: var(--text-faint);
+  font-size: 0.8rem;
+}
+
+main {
+  flex: 1;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+/* -- skill nav -- */
+
+.skill-nav {
+  flex: 0 0 220px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+  position: sticky;
+  top: 1.5rem;
+}
+
+.skill-group h3 {
+  margin: 0 0 0.5rem;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-faint);
+  font-weight: 600;
+}
+
+.skill-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.skill-btn {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-family: var(--font);
+  font-size: 0.9rem;
+  padding: 0.45rem 0.65rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.12s ease, color 0.12s ease;
+}
+
+.skill-btn:hover {
+  background: var(--bg-hover);
+  color: var(--text);
+}
+
+.skill-btn.active {
+  background: var(--accent-dim);
+  color: #fff;
+  font-weight: 600;
+}
+
+/* -- board -- */
+
+.board {
+  flex: 1;
+  min-width: 0;
+  background: var(--bg-raised);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.board-header {
+  padding: 1.1rem 1.25rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.board-header h2 {
+  margin: 0;
+  font-size: 1.15rem;
+  text-transform: capitalize;
+}
+
+.table-wrap {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  min-width: 420px;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+thead th {
+  text-align: left;
+  padding: 0.6rem 1.25rem;
+  color: var(--text-faint);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 600;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+tbody td {
+  padding: 0.6rem 1.25rem;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+tbody tr:hover {
+  background: var(--bg-hover);
+}
+
+.col-rank { width: 3.5rem; color: var(--text-faint); font-variant-numeric: tabular-nums; }
+.col-level { width: 5rem; color: var(--text-dim); font-variant-numeric: tabular-nums; }
+.col-xp { text-align: right; font-variant-numeric: tabular-nums; }
+.col-name { min-width: 140px; }
+
+.rank-1 .col-rank { color: var(--gold); font-weight: 700; }
+.rank-2 .col-rank { color: var(--silver); font-weight: 700; }
+.rank-3 .col-rank { color: var(--bronze); font-weight: 700; }
+
+.empty {
+  padding: 2.5rem 1.25rem;
+  text-align: center;
+  color: var(--text-faint);
+  margin: 0;
+}
+
+.site-footer {
+  text-align: center;
+  padding: 1.5rem;
+  color: var(--text-faint);
+  font-size: 0.78rem;
+  border-top: 1px solid var(--border);
+}
+
+.site-footer p { margin: 0; max-width: 520px; margin: 0 auto; }
+
+/* -- responsive -- */
+
+@media (max-width: 720px) {
+  main {
+    flex-direction: column;
+  }
+  .skill-nav {
+    flex: none;
+    width: 100%;
+    position: static;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.75rem 1.25rem;
+  }
+  .skill-group { flex: 1 1 auto; min-width: 140px; }
+  thead th, tbody td { padding: 0.55rem 0.85rem; }
+}

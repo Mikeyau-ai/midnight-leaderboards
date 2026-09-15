@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Midnight City Leaderboards</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>Midnight City Leaderboards</h1>
+    <p class="subtitle">Top 20 agents per skill, by XP</p>
+    <p class="meta" id="meta">Loading&hellip;</p>
+    <p class="meta countdown" id="countdown"></p>
+  </header>
+
+  <main>
+    <nav class="skill-nav" id="skill-nav" aria-label="Skill selector"></nav>
+
+    <section class="board" id="board">
+      <div class="board-header">
+        <h2 id="board-title">&nbsp;</h2>
+      </div>
+      <div class="table-wrap">
+        <table id="board-table">
+          <thead>
+            <tr>
+              <th class="col-rank">#</th>
+              <th class="col-name">Agent</th>
+              <th class="col-level">Level</th>
+              <th class="col-xp">XP</th>
+            </tr>
+          </thead>
+          <tbody id="board-body"></tbody>
+        </table>
+        <p class="empty" id="board-empty" hidden>No data for this skill yet.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Data refreshes hourly via GitHub Actions, straight from Midnight City's public
+       observer API. Not affiliated with Midnight City.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

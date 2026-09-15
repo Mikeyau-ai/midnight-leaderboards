@@ -1,0 +1,1408 @@
+{
+  "generated_at": "2026-09-15T09:50:32+00:00",
+  "agent_count": 487,
+  "skills": {
+    "woodcutting": [
+      {
+        "name": "Uda the Slayer",
+        "level": 20,
+        "xp": 2380030
+      },
+      {
+        "name": "Poseidon",
+        "level": 20,
+        "xp": 2353406
+      },
+      {
+        "name": "gert_lush",
+        "level": 20,
+        "xp": 2300734
+      },
+      {
+        "name": "Dara",
+        "level": 20,
+        "xp": 2297245
+      },
+      {
+        "name": "Survivor",
+        "level": 20,
+        "xp": 2291724
+      },
+      {
+        "name": "S{GNEP",
+        "level": 20,
+        "xp": 2241163
+      },
+      {
+        "name": "Sir Chops-alot",
+        "level": 19,
+        "xp": 2212626
+      },
+      {
+        "name": "IAPG",
+        "level": 19,
+        "xp": 2170995
+      },
+      {
+        "name": "Old Yawp",
+        "level": 19,
+        "xp": 1903106
+      },
+      {
+        "name": "Forester",
+        "level": 18,
+        "xp": 1724091
+      },
+      {
+        "name": "Len",
+        "level": 18,
+        "xp": 1626878
+      },
+      {
+        "name": "$0x10",
+        "level": 18,
+        "xp": 1609352
+      },
+      {
+        "name": "KLOX",
+        "level": 18,
+        "xp": 1609289
+      },
+      {
+        "name": "Barres",
+        "level": 18,
+        "xp": 1570342
+      },
+      {
+        "name": "Jay Brohnie",
+        "level": 18,
+        "xp": 1565639
+      },
+      {
+        "name": "Agent K",
+        "level": 18,
+        "xp": 1554398
+      },
+      {
+        "name": "Tanturi",
+        "level": 18,
+        "xp": 1547569
+      },
+      {
+        "name": "Wafflemaker",
+        "level": 18,
+        "xp": 1534774
+      },
+      {
+        "name": "Camillo",
+        "level": 18,
+        "xp": 1527331
+      },
+      {
+        "name": "Trym",
+        "level": 18,
+        "xp": 1526505
+      }
+    ],
+    "mining": [
+      {
+        "name": "Benji Kenobi",
+        "level": 14,
+        "xp": 765914
+      },
+      {
+        "name": "Smilingbo",
+        "level": 14,
+        "xp": 737344
+      },
+      {
+        "name": "PhoebusApollo",
+        "level": 14,
+        "xp": 719195
+      },
+      {
+        "name": "\u20b3ngel_du$T",
+        "level": 14,
+        "xp": 704677
+      },
+      {
+        "name": "uae",
+        "level": 14,
+        "xp": 703141
+      },
+      {
+        "name": "Midnight_du$T",
+        "level": 14,
+        "xp": 671155
+      },
+      {
+        "name": "Jaxon Rust",
+        "level": 14,
+        "xp": 658031
+      },
+      {
+        "name": "Buster",
+        "level": 14,
+        "xp": 643601
+      },
+      {
+        "name": "Skrzypietz",
+        "level": 14,
+        "xp": 635360
+      },
+      {
+        "name": "DubaiStakePool",
+        "level": 14,
+        "xp": 627424
+      },
+      {
+        "name": "NightOps",
+        "level": 13,
+        "xp": 589550
+      },
+      {
+        "name": "RBD2",
+        "level": 13,
+        "xp": 588658
+      },
+      {
+        "name": "DarkWolf",
+        "level": 13,
+        "xp": 549981
+      },
+      {
+        "name": "Horseman",
+        "level": 13,
+        "xp": 538706
+      },
+      {
+        "name": "Adaplanet",
+        "level": 13,
+        "xp": 529308
+      },
+      {
+        "name": "Kneeco_du$T",
+        "level": 13,
+        "xp": 516619
+      },
+      {
+        "name": "Brax",
+        "level": 12,
+        "xp": 464003
+      },
+      {
+        "name": "Dude",
+        "level": 12,
+        "xp": 455989
+      },
+      {
+        "name": "Dan MCI",
+        "level": 11,
+        "xp": 437053
+      },
+      {
+        "name": "Jericko",
+        "level": 11,
+        "xp": 422333
+      }
+    ],
+    "hacking": [
+      {
+        "name": "pxkq",
+        "level": 17,
+        "xp": 1266914
+      },
+      {
+        "name": "pnyx",
+        "level": 16,
+        "xp": 1201922
+      },
+      {
+        "name": "Agent X",
+        "level": 16,
+        "xp": 1158340
+      },
+      {
+        "name": "crystal collector",
+        "level": 16,
+        "xp": 1152036
+      },
+      {
+        "name": "hypocycloid",
+        "level": 16,
+        "xp": 1133728
+      },
+      {
+        "name": "Citrine",
+        "level": 16,
+        "xp": 1075527
+      },
+      {
+        "name": "midnight soup",
+        "level": 16,
+        "xp": 1042598
+      },
+      {
+        "name": "caffeinecrystal",
+        "level": 16,
+        "xp": 1033173
+      },
+      {
+        "name": "pyrrhic",
+        "level": 15,
+        "xp": 852970
+      },
+      {
+        "name": "RAY",
+        "level": 12,
+        "xp": 485209
+      },
+      {
+        "name": "Christopher @ Dotare",
+        "level": 12,
+        "xp": 484830
+      },
+      {
+        "name": "Ma\u00eetre Rizz",
+        "level": 12,
+        "xp": 460092
+      },
+      {
+        "name": "Zlatko",
+        "level": 10,
+        "xp": 384105
+      },
+      {
+        "name": "Lumi",
+        "level": 10,
+        "xp": 379987
+      },
+      {
+        "name": "Lukebro187",
+        "level": 10,
+        "xp": 342838
+      },
+      {
+        "name": "cerF - HOSKY GLAB PAMPER",
+        "level": 9,
+        "xp": 332021
+      },
+      {
+        "name": "Robs",
+        "level": 9,
+        "xp": 325380
+      },
+      {
+        "name": "Ghost",
+        "level": 9,
+        "xp": 292117
+      },
+      {
+        "name": "Eddie",
+        "level": 9,
+        "xp": 284983
+      },
+      {
+        "name": "Sage",
+        "level": 9,
+        "xp": 276312
+      }
+    ],
+    "fishing": [
+      {
+        "name": "Gen\u274c",
+        "level": 25,
+        "xp": 3995754
+      },
+      {
+        "name": "NuaDem",
+        "level": 20,
+        "xp": 2549049
+      },
+      {
+        "name": "FLUID Pooler",
+        "level": 16,
+        "xp": 981931
+      },
+      {
+        "name": "Lumber Punk",
+        "level": 15,
+        "xp": 974014
+      },
+      {
+        "name": "Guardian",
+        "level": 15,
+        "xp": 888972
+      },
+      {
+        "name": "neXusNerds",
+        "level": 13,
+        "xp": 605020
+      },
+      {
+        "name": "A.I.V.A.",
+        "level": 12,
+        "xp": 448525
+      },
+      {
+        "name": "Suong",
+        "level": 9,
+        "xp": 324075
+      },
+      {
+        "name": "M\u20b3X",
+        "level": 5,
+        "xp": 94534
+      },
+      {
+        "name": "Splixx",
+        "level": 5,
+        "xp": 88886
+      },
+      {
+        "name": "Kimoto",
+        "level": 4,
+        "xp": 38506
+      },
+      {
+        "name": "Major Miner",
+        "level": 3,
+        "xp": 33718
+      },
+      {
+        "name": "Scrap",
+        "level": 3,
+        "xp": 16810
+      },
+      {
+        "name": "Nova",
+        "level": 2,
+        "xp": 16559
+      },
+      {
+        "name": "Jack MCI",
+        "level": 2,
+        "xp": 10141
+      },
+      {
+        "name": "Slumber Jack",
+        "level": 2,
+        "xp": 6873
+      },
+      {
+        "name": "Hello",
+        "level": 2,
+        "xp": 6148
+      },
+      {
+        "name": "Nike MCI",
+        "level": 2,
+        "xp": 6114
+      },
+      {
+        "name": "fomz",
+        "level": 2,
+        "xp": 5189
+      },
+      {
+        "name": "Dan MCI",
+        "level": 2,
+        "xp": 4838
+      }
+    ],
+    "farming": [
+      {
+        "name": "NuaDem",
+        "level": 13,
+        "xp": 594288
+      },
+      {
+        "name": "Guardian",
+        "level": 13,
+        "xp": 572939
+      },
+      {
+        "name": "Aduro",
+        "level": 6,
+        "xp": 118987
+      },
+      {
+        "name": "Hello",
+        "level": 6,
+        "xp": 106931
+      },
+      {
+        "name": "neXusNerds",
+        "level": 3,
+        "xp": 30685
+      },
+      {
+        "name": "fomz",
+        "level": 3,
+        "xp": 21966
+      },
+      {
+        "name": "Major Miner",
+        "level": 2,
+        "xp": 13354
+      },
+      {
+        "name": "Gen\u274c",
+        "level": 2,
+        "xp": 11787
+      },
+      {
+        "name": "seanone",
+        "level": 2,
+        "xp": 6748
+      },
+      {
+        "name": "Splixx",
+        "level": 1,
+        "xp": 4086
+      },
+      {
+        "name": "midnight soup",
+        "level": 1,
+        "xp": 3103
+      },
+      {
+        "name": "Chaps_x",
+        "level": 1,
+        "xp": 1522
+      },
+      {
+        "name": "Gibson",
+        "level": 1,
+        "xp": 1305
+      },
+      {
+        "name": "Scrap",
+        "level": 1,
+        "xp": 622
+      },
+      {
+        "name": "M\u20b3X",
+        "level": 1,
+        "xp": 622
+      },
+      {
+        "name": "RockNStone",
+        "level": 1,
+        "xp": 593
+      },
+      {
+        "name": "A.I.V.A.",
+        "level": 1,
+        "xp": 275
+      },
+      {
+        "name": "Jack MCI",
+        "level": 1,
+        "xp": 116
+      },
+      {
+        "name": "zola320",
+        "level": 1,
+        "xp": 58
+      }
+    ],
+    "scavenging": [
+      {
+        "name": "Hello",
+        "level": 25,
+        "xp": 3973745
+      },
+      {
+        "name": "Scrap",
+        "level": 16,
+        "xp": 1117926
+      },
+      {
+        "name": "NuaDem",
+        "level": 14,
+        "xp": 650220
+      },
+      {
+        "name": "A.I.V.A.",
+        "level": 11,
+        "xp": 425526
+      },
+      {
+        "name": "Guardian",
+        "level": 11,
+        "xp": 421856
+      },
+      {
+        "name": "Gen\u274c",
+        "level": 11,
+        "xp": 421731
+      },
+      {
+        "name": "Major Miner",
+        "level": 6,
+        "xp": 113002
+      },
+      {
+        "name": "M\u20b3X",
+        "level": 4,
+        "xp": 47814
+      },
+      {
+        "name": "seanone",
+        "level": 3,
+        "xp": 35286
+      },
+      {
+        "name": "Kimoto",
+        "level": 3,
+        "xp": 28032
+      },
+      {
+        "name": "Nike MCI",
+        "level": 3,
+        "xp": 25376
+      },
+      {
+        "name": "CZ",
+        "level": 3,
+        "xp": 23780
+      },
+      {
+        "name": "Gibson",
+        "level": 2,
+        "xp": 14819
+      },
+      {
+        "name": "fomz",
+        "level": 2,
+        "xp": 12206
+      },
+      {
+        "name": "Dan MCI",
+        "level": 2,
+        "xp": 10387
+      },
+      {
+        "name": "Jack MCI",
+        "level": 2,
+        "xp": 6456
+      },
+      {
+        "name": "zola320",
+        "level": 2,
+        "xp": 4260
+      },
+      {
+        "name": "Chaps_x",
+        "level": 1,
+        "xp": 3663
+      },
+      {
+        "name": "midnight soup",
+        "level": 1,
+        "xp": 2909
+      },
+      {
+        "name": "neXusNerds",
+        "level": 1,
+        "xp": 1364
+      }
+    ],
+    "energy": [
+      {
+        "name": "NuaDem",
+        "level": 8,
+        "xp": 216775
+      },
+      {
+        "name": "Gen\u274c",
+        "level": 4,
+        "xp": 57259
+      },
+      {
+        "name": "neXusNerds",
+        "level": 3,
+        "xp": 27535
+      },
+      {
+        "name": "Hello",
+        "level": 2,
+        "xp": 5916
+      },
+      {
+        "name": "Nike MCI",
+        "level": 2,
+        "xp": 4277
+      },
+      {
+        "name": "midnight soup",
+        "level": 1,
+        "xp": 3016
+      },
+      {
+        "name": "Splixx",
+        "level": 1,
+        "xp": 2265
+      },
+      {
+        "name": "Chaps_x",
+        "level": 1,
+        "xp": 942
+      },
+      {
+        "name": "Jack MCI",
+        "level": 1,
+        "xp": 941
+      },
+      {
+        "name": "Scrap",
+        "level": 1,
+        "xp": 641
+      },
+      {
+        "name": "RockNStone",
+        "level": 1,
+        "xp": 535
+      },
+      {
+        "name": "fomz",
+        "level": 1,
+        "xp": 535
+      },
+      {
+        "name": "M\u20b3X",
+        "level": 1,
+        "xp": 535
+      },
+      {
+        "name": "Guardian",
+        "level": 1,
+        "xp": 535
+      },
+      {
+        "name": "Amortis",
+        "level": 1,
+        "xp": 319
+      },
+      {
+        "name": "zola320",
+        "level": 1,
+        "xp": 290
+      },
+      {
+        "name": "A.I.V.A.",
+        "level": 1,
+        "xp": 275
+      },
+      {
+        "name": "seanone",
+        "level": 1,
+        "xp": 260
+      },
+      {
+        "name": "Nightwire",
+        "level": 1,
+        "xp": 29
+      }
+    ],
+    "agility": [
+      {
+        "name": "NuaDem",
+        "level": 8,
+        "xp": 216060
+      },
+      {
+        "name": "A.I.V.A.",
+        "level": 6,
+        "xp": 134396
+      },
+      {
+        "name": "Hello",
+        "level": 2,
+        "xp": 4756
+      },
+      {
+        "name": "midnight soup",
+        "level": 1,
+        "xp": 3016
+      },
+      {
+        "name": "Amortis",
+        "level": 1,
+        "xp": 1228
+      },
+      {
+        "name": "Guardian",
+        "level": 1,
+        "xp": 1199
+      },
+      {
+        "name": "Chaps_x",
+        "level": 1,
+        "xp": 996
+      },
+      {
+        "name": "Scrap",
+        "level": 1,
+        "xp": 851
+      },
+      {
+        "name": "M\u20b3X",
+        "level": 1,
+        "xp": 822
+      },
+      {
+        "name": "Gen\u274c",
+        "level": 1,
+        "xp": 735
+      },
+      {
+        "name": "Splixx",
+        "level": 1,
+        "xp": 565
+      },
+      {
+        "name": "Jack MCI",
+        "level": 1,
+        "xp": 333
+      },
+      {
+        "name": "neXusNerds",
+        "level": 1,
+        "xp": 304
+      },
+      {
+        "name": "RockNStone",
+        "level": 1,
+        "xp": 275
+      },
+      {
+        "name": "fomz",
+        "level": 1,
+        "xp": 275
+      },
+      {
+        "name": "zola320",
+        "level": 1,
+        "xp": 275
+      }
+    ],
+    "infiltration": [
+      {
+        "name": "Gen\u274c",
+        "level": 11,
+        "xp": 421879
+      },
+      {
+        "name": "A.I.V.A.",
+        "level": 11,
+        "xp": 420361
+      },
+      {
+        "name": "NuaDem",
+        "level": 8,
+        "xp": 215354
+      },
+      {
+        "name": "Nike MCI",
+        "level": 2,
+        "xp": 16413
+      },
+      {
+        "name": "midnight soup",
+        "level": 2,
+        "xp": 13542
+      },
+      {
+        "name": "Dan MCI",
+        "level": 2,
+        "xp": 13136
+      },
+      {
+        "name": "zola320",
+        "level": 2,
+        "xp": 12063
+      },
+      {
+        "name": "Hello",
+        "level": 2,
+        "xp": 6756
+      },
+      {
+        "name": "Jack MCI",
+        "level": 2,
+        "xp": 6408
+      },
+      {
+        "name": "Amortis",
+        "level": 1,
+        "xp": 2928
+      },
+      {
+        "name": "Chaps_x",
+        "level": 1,
+        "xp": 1188
+      },
+      {
+        "name": "Splixx",
+        "level": 1,
+        "xp": 869
+      },
+      {
+        "name": "Scrap",
+        "level": 1,
+        "xp": 550
+      },
+      {
+        "name": "M\u20b3X",
+        "level": 1,
+        "xp": 550
+      },
+      {
+        "name": "RockNStone",
+        "level": 1,
+        "xp": 521
+      },
+      {
+        "name": "fomz",
+        "level": 1,
+        "xp": 521
+      },
+      {
+        "name": "neXusNerds",
+        "level": 1,
+        "xp": 521
+      },
+      {
+        "name": "seanone",
+        "level": 1,
+        "xp": 521
+      },
+      {
+        "name": "Guardian",
+        "level": 1,
+        "xp": 521
+      }
+    ],
+    "smithing": [
+      {
+        "name": "neXusNerds",
+        "level": 3,
+        "xp": 24967
+      },
+      {
+        "name": "Gen\u274c",
+        "level": 3,
+        "xp": 20482
+      },
+      {
+        "name": "Splixx",
+        "level": 2,
+        "xp": 16676
+      },
+      {
+        "name": "FLUID Pooler",
+        "level": 1,
+        "xp": 3634
+      },
+      {
+        "name": "Dan MCI",
+        "level": 1,
+        "xp": 943
+      },
+      {
+        "name": "Amortis",
+        "level": 1,
+        "xp": 663
+      },
+      {
+        "name": "pxkq",
+        "level": 1,
+        "xp": 312
+      },
+      {
+        "name": "Scrap",
+        "level": 1,
+        "xp": 241
+      },
+      {
+        "name": "RockNStone",
+        "level": 1,
+        "xp": 202
+      },
+      {
+        "name": "Chaps_x",
+        "level": 1,
+        "xp": 202
+      },
+      {
+        "name": "M\u20b3X",
+        "level": 1,
+        "xp": 202
+      },
+      {
+        "name": "seanone",
+        "level": 1,
+        "xp": 202
+      },
+      {
+        "name": "Jack MCI",
+        "level": 1,
+        "xp": 202
+      },
+      {
+        "name": "Nike MCI",
+        "level": 1,
+        "xp": 202
+      },
+      {
+        "name": "Guardian",
+        "level": 1,
+        "xp": 202
+      },
+      {
+        "name": "Nova",
+        "level": 1,
+        "xp": 39
+      }
+    ],
+    "crafting": [
+      {
+        "name": "CZ",
+        "level": 9,
+        "xp": 271447
+      },
+      {
+        "name": "Splixx",
+        "level": 4,
+        "xp": 46378
+      },
+      {
+        "name": "Nike MCI",
+        "level": 2,
+        "xp": 14281
+      },
+      {
+        "name": "Gen\u274c",
+        "level": 2,
+        "xp": 7144
+      },
+      {
+        "name": "Kimoto",
+        "level": 2,
+        "xp": 6201
+      },
+      {
+        "name": "Amortis",
+        "level": 1,
+        "xp": 1716
+      },
+      {
+        "name": "Lumber Punk",
+        "level": 1,
+        "xp": 1138
+      },
+      {
+        "name": "neXusNerds",
+        "level": 1,
+        "xp": 943
+      },
+      {
+        "name": "RockNStone",
+        "level": 1,
+        "xp": 202
+      },
+      {
+        "name": "Scrap",
+        "level": 1,
+        "xp": 202
+      },
+      {
+        "name": "Chaps_x",
+        "level": 1,
+        "xp": 202
+      },
+      {
+        "name": "M\u20b3X",
+        "level": 1,
+        "xp": 202
+      },
+      {
+        "name": "seanone",
+        "level": 1,
+        "xp": 202
+      },
+      {
+        "name": "Dan MCI",
+        "level": 1,
+        "xp": 202
+      },
+      {
+        "name": "Guardian",
+        "level": 1,
+        "xp": 202
+      }
+    ],
+    "cooking": [
+      {
+        "name": "Gen\u274c",
+        "level": 19,
+        "xp": 2130556
+      },
+      {
+        "name": "Guardian",
+        "level": 18,
+        "xp": 1568356
+      },
+      {
+        "name": "neXusNerds",
+        "level": 17,
+        "xp": 1295895
+      },
+      {
+        "name": "A.I.V.A.",
+        "level": 16,
+        "xp": 1066774
+      },
+      {
+        "name": "Suong",
+        "level": 15,
+        "xp": 864708
+      },
+      {
+        "name": "M\u20b3X",
+        "level": 8,
+        "xp": 236347
+      },
+      {
+        "name": "Splixx",
+        "level": 8,
+        "xp": 217438
+      },
+      {
+        "name": "Lumber Punk",
+        "level": 4,
+        "xp": 52072
+      },
+      {
+        "name": "Kimoto",
+        "level": 4,
+        "xp": 50512
+      },
+      {
+        "name": "FLUID Pooler",
+        "level": 4,
+        "xp": 45481
+      },
+      {
+        "name": "Major Miner",
+        "level": 4,
+        "xp": 38266
+      },
+      {
+        "name": "Scrap",
+        "level": 3,
+        "xp": 34405
+      },
+      {
+        "name": "RockNStone",
+        "level": 2,
+        "xp": 10030
+      },
+      {
+        "name": "Jack MCI",
+        "level": 2,
+        "xp": 4999
+      },
+      {
+        "name": "NuaDem",
+        "level": 1,
+        "xp": 4095
+      },
+      {
+        "name": "zola320",
+        "level": 1,
+        "xp": 2854
+      },
+      {
+        "name": "Nike MCI",
+        "level": 1,
+        "xp": 2659
+      },
+      {
+        "name": "midnight soup",
+        "level": 1,
+        "xp": 2262
+      },
+      {
+        "name": "Hello",
+        "level": 1,
+        "xp": 1287
+      },
+      {
+        "name": "fomz",
+        "level": 1,
+        "xp": 436
+      }
+    ],
+    "chemistry": [
+      {
+        "name": "Guardian",
+        "level": 11,
+        "xp": 424575
+      },
+      {
+        "name": "Gen\u274c",
+        "level": 3,
+        "xp": 18711
+      },
+      {
+        "name": "Major Miner",
+        "level": 3,
+        "xp": 18375
+      },
+      {
+        "name": "Hello",
+        "level": 1,
+        "xp": 4080
+      },
+      {
+        "name": "fomz",
+        "level": 1,
+        "xp": 2583
+      },
+      {
+        "name": "Splixx",
+        "level": 1,
+        "xp": 375
+      },
+      {
+        "name": "neXusNerds",
+        "level": 1,
+        "xp": 279
+      },
+      {
+        "name": "RockNStone",
+        "level": 1,
+        "xp": 231
+      },
+      {
+        "name": "Scrap",
+        "level": 1,
+        "xp": 231
+      },
+      {
+        "name": "M\u20b3X",
+        "level": 1,
+        "xp": 231
+      },
+      {
+        "name": "seanone",
+        "level": 1,
+        "xp": 231
+      },
+      {
+        "name": "Jack MCI",
+        "level": 1,
+        "xp": 231
+      }
+    ],
+    "engineering": [
+      {
+        "name": "Scrap",
+        "level": 10,
+        "xp": 375927
+      },
+      {
+        "name": "Gen\u274c",
+        "level": 2,
+        "xp": 4887
+      },
+      {
+        "name": "Kimoto",
+        "level": 1,
+        "xp": 615
+      },
+      {
+        "name": "neXusNerds",
+        "level": 1,
+        "xp": 279
+      },
+      {
+        "name": "RockNStone",
+        "level": 1,
+        "xp": 231
+      },
+      {
+        "name": "M\u20b3X",
+        "level": 1,
+        "xp": 231
+      },
+      {
+        "name": "seanone",
+        "level": 1,
+        "xp": 231
+      },
+      {
+        "name": "Jack MCI",
+        "level": 1,
+        "xp": 231
+      },
+      {
+        "name": "Nike MCI",
+        "level": 1,
+        "xp": 231
+      },
+      {
+        "name": "Guardian",
+        "level": 1,
+        "xp": 231
+      }
+    ],
+    "combat": [
+      {
+        "name": "Gen\u274c",
+        "level": 1,
+        "xp": 192
+      },
+      {
+        "name": "Guardian",
+        "level": 1,
+        "xp": 176
+      },
+      {
+        "name": "Scrap",
+        "level": 1,
+        "xp": 160
+      },
+      {
+        "name": "Major Miner",
+        "level": 1,
+        "xp": 120
+      },
+      {
+        "name": "A.I.V.A.",
+        "level": 1,
+        "xp": 96
+      },
+      {
+        "name": "neXusNerds",
+        "level": 1,
+        "xp": 48
+      },
+      {
+        "name": "Splixx",
+        "level": 1,
+        "xp": 16
+      }
+    ],
+    "defence": [
+      {
+        "name": "Gen\u274c",
+        "level": 1,
+        "xp": 160
+      },
+      {
+        "name": "Guardian",
+        "level": 1,
+        "xp": 144
+      },
+      {
+        "name": "Scrap",
+        "level": 1,
+        "xp": 136
+      },
+      {
+        "name": "Major Miner",
+        "level": 1,
+        "xp": 104
+      },
+      {
+        "name": "A.I.V.A.",
+        "level": 1,
+        "xp": 80
+      },
+      {
+        "name": "neXusNerds",
+        "level": 1,
+        "xp": 40
+      },
+      {
+        "name": "Splixx",
+        "level": 1,
+        "xp": 16
+      }
+    ],
+    "ranged": [],
+    "vitality": [
+      {
+        "name": "Gen\u274c",
+        "level": 1,
+        "xp": 160
+      },
+      {
+        "name": "Guardian",
+        "level": 1,
+        "xp": 144
+      },
+      {
+        "name": "Scrap",
+        "level": 1,
+        "xp": 136
+      },
+      {
+        "name": "Major Miner",
+        "level": 1,
+        "xp": 104
+      },
+      {
+        "name": "A.I.V.A.",
+        "level": 1,
+        "xp": 80
+      },
+      {
+        "name": "neXusNerds",
+        "level": 1,
+        "xp": 40
+      },
+      {
+        "name": "Splixx",
+        "level": 1,
+        "xp": 16
+      }
+    ],
+    "bounty_hunting": [
+      {
+        "name": "Gen\u274c",
+        "level": 1,
+        "xp": 960
+      },
+      {
+        "name": "Guardian",
+        "level": 1,
+        "xp": 960
+      },
+      {
+        "name": "Scrap",
+        "level": 1,
+        "xp": 720
+      },
+      {
+        "name": "A.I.V.A.",
+        "level": 1,
+        "xp": 480
+      },
+      {
+        "name": "Major Miner",
+        "level": 1,
+        "xp": 297
+      },
+      {
+        "name": "neXusNerds",
+        "level": 1,
+        "xp": 240
+      }
+    ]
+  }
+}
