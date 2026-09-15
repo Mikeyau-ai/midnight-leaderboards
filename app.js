@@ -15,6 +15,7 @@ const SKILL_GROUPS = [
 ];
 
 const skillNav = document.getElementById("skill-nav");
+const skillSelect = document.getElementById("skill-select");
 const boardTitle = document.getElementById("board-title");
 const boardBody = document.getElementById("board-body");
 const boardEmpty = document.getElementById("board-empty");
@@ -59,10 +60,27 @@ function buildNav() {
   }
 }
 
+function buildSelect() {
+  skillSelect.innerHTML = "";
+  for (const group of SKILL_GROUPS) {
+    const optgroup = document.createElement("optgroup");
+    optgroup.label = group.label;
+    for (const skill of group.skills) {
+      const opt = document.createElement("option");
+      opt.value = skill;
+      opt.textContent = formatSkillName(skill);
+      optgroup.appendChild(opt);
+    }
+    skillSelect.appendChild(optgroup);
+  }
+  skillSelect.addEventListener("change", () => selectSkill(skillSelect.value));
+}
+
 function selectSkill(skill) {
   document.querySelectorAll(".skill-btn").forEach((b) => {
     b.classList.toggle("active", b.dataset.skill === skill);
   });
+  skillSelect.value = skill;
   boardTitle.textContent = formatSkillName(skill);
   renderBoard(skill);
   try {
@@ -148,6 +166,7 @@ async function load() {
   meta.textContent = formatMeta();
   startCountdown();
   buildNav();
+  buildSelect();
 
   const fromHash = location.hash.replace("#", "");
   let saved = null;
